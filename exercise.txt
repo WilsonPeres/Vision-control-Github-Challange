@@ -1,0 +1,6 @@
+1.It is a version control system where we input commands for the computer to follow
+
+.2.They are very simular, but github is used online and multiple copies of the gits. they also have tool integration 
+
+3.It allows us to share and work on projects. It also allows your work to be seen by the public. 
+
